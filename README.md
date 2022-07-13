@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jidorr
-- 👀 I’m interested in Data Science, Machine Learning, AI
+- 👀 I’m interested in Data Science, Data Engineering, Machine Learning, AI
 - 🌱 I’m currently learning Java, Python & Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jordisa97@uoc.edu
