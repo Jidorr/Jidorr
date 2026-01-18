@@ -43,7 +43,7 @@ I specialize in building scalable, production-ready systems and integrating Larg
 
 ### 📫 Connect with me
 
-[<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]([https://your-portfolio-link.com](https://d2sfqsu88vp0sb.cloudfront.net/))
+[<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://d2sfqsu88vp0sb.cloudfront.net/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jordi-salleras-6658b41b8)
 
 <br />
