@@ -8,8 +8,8 @@ I specialize in building scalable, production-ready systems and integrating Larg
 
 ### 🚀 About Me
 
-- 💼 Currently working as a **Senior Software Engineer** at **ADP**.
-- 🎓 Master's in **Data Science** from UOC.
+- 💼 Currently working as a **Senior Software Engineer**.
+- 🎓 Master's in **Data Science**.
 - 🔧 Focused on **LLM Integration (LangGraph)**, **Distributed Systems (PySpark/Databricks)**, and **Cloud Architecture (AWS)**.
 - 🌍 Based in **Barcelona, Spain**.
 - 💬 Ask me about **Python, AWS, Data Engineering, and Generative AI**.
